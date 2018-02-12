@@ -6,6 +6,8 @@ This is just a list of cool numbers that I've discovered with rpn.  I was thinki
 
 This is an ongoing project to find the first prime after successive powers of 10.
 
+Yeah, it figures... oeis.org already has this information at A033873.
+
 ## 50th_mersenne_prime.txt
 
 The 50th Mersenne Prime was discovered recently.  It took rpn about an hour to calculate the whole thing out.
