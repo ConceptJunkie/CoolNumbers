@@ -26,3 +26,7 @@ These are primes based on base-100 repunits (i.e. 010101..0101 * n +/ 1 or 2, wh
 
 In simpler terms, these are 4 lists of prime numbers constructed from repeating strings of 2 digits up to 750 times, and then subtracting 2 and 1, and adding 1 and 2, respectivelty from the resulting number.
 
+## polydivisibles
+
+These files list all polydivisible numbers for base 2 through base 15.  I have generated more bases, but the files are getting really large.
+
