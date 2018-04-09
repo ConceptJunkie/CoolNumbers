@@ -30,3 +30,6 @@ In simpler terms, these are 4 lists of prime numbers constructed from repeating 
 
 These files list all polydivisible numbers for base 2 through base 15.  I have generated more bases, but the files are getting really large.
 
+# partitions.txt
+
+The first 100,000 integer partitions where each value represents the number of ways the value can be broken down into distinct integer partitions.
