@@ -36,3 +36,23 @@ The first 100,000 integer partitions where each value represents the number of w
 
 The first 10000 have been verified against OEIS, and a few of the rest have been spot checked against Wolfram Alpha.
 
+# fibonacci_factors.txt
+
+Factorizations of Fibonacci numbers
+
+# lucas_factors.txt
+
+Factorizations of Lucas numbers
+
+# tribonacci_factors.txt
+
+Factorizations of Tribonacci numbers
+
+# tetranacci_factors.txt
+
+Factorizations of Tetranacci numbers
+
+# pentanacci_factors.txt
+
+Factorizations of Pentanacci numbers
+
