@@ -1,0 +1,7 @@
+c:\sys\ut\rpn\rpn.py -l120 -a10010 -E 1[0:0:10000]1 build_numbers 0 enumerate lambda x 1 element is_prime filter -s1 -t
+[
+    [ 0, 11 ],
+    [ 1, 101 ]
+]
+
+ 71584.262 seconds
