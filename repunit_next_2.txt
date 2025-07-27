@@ -1,0 +1,3 @@
+c:\sys\ut\rpn\rpn.py -l120 -a1010 -E 1 8 range lambda 1 2000 range 10 repunit x * next_prime eval -s1 flatten sort
+
+handling ctrl-c keyboard interrupt...
